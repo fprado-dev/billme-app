@@ -1,0 +1,1 @@
+export const SET_LOCAL_TEXT_LANG = 'SET_LOCAL_TEXT_LANG';
