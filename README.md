@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+    <img src="https://github.com/fprado-dev/billme-app/blob/master/logo2.png?raw=true" alt="Logo">
   </a>
 
   <h4 align="center">Jeito mais fácil de controlar suas contas.</h4>
