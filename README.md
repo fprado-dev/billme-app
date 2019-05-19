@@ -7,8 +7,6 @@
   <h4 align="center">Jeito mais fácil de controlar suas contas.</h4>
 </p>
 
-### Feito Com
-
 Abaixo segue o que está sendo utilizado na criação deste projeto:
 
 - [React Native](http://facebook.github.io/react-native/)
